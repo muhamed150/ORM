@@ -1,0 +1,11 @@
+C:\Users\muxam\Desktop\CRUDWithORM\CRUDWithORM\bin\Debug\netcoreapp2.1\CRUDWithORM.deps.json
+C:\Users\muxam\Desktop\CRUDWithORM\CRUDWithORM\bin\Debug\netcoreapp2.1\CRUDWithORM.runtimeconfig.json
+C:\Users\muxam\Desktop\CRUDWithORM\CRUDWithORM\bin\Debug\netcoreapp2.1\CRUDWithORM.runtimeconfig.dev.json
+C:\Users\muxam\Desktop\CRUDWithORM\CRUDWithORM\bin\Debug\netcoreapp2.1\CRUDWithORM.dll
+C:\Users\muxam\Desktop\CRUDWithORM\CRUDWithORM\obj\Debug\netcoreapp2.1\CRUDWithORM.csprojAssemblyReference.cache
+C:\Users\muxam\Desktop\CRUDWithORM\CRUDWithORM\obj\Debug\netcoreapp2.1\CRUDWithORM.csproj.CoreCompileInputs.cache
+C:\Users\muxam\Desktop\CRUDWithORM\CRUDWithORM\obj\Debug\netcoreapp2.1\CRUDWithORM.AssemblyInfoInputs.cache
+C:\Users\muxam\Desktop\CRUDWithORM\CRUDWithORM\obj\Debug\netcoreapp2.1\CRUDWithORM.AssemblyInfo.cs
+C:\Users\muxam\Desktop\CRUDWithORM\CRUDWithORM\bin\Debug\netcoreapp2.1\CRUDWithORM.pdb
+C:\Users\muxam\Desktop\CRUDWithORM\CRUDWithORM\obj\Debug\netcoreapp2.1\CRUDWithORM.dll
+C:\Users\muxam\Desktop\CRUDWithORM\CRUDWithORM\obj\Debug\netcoreapp2.1\CRUDWithORM.pdb
